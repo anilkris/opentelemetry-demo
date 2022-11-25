@@ -1,0 +1,10 @@
+2022-11-25 16:19:20.831+05:30 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.4 started successfully (PID 2420, JVM running for 8.034 s)
+2022-11-25 16:19:20.841+05:30 INFO  c.m.applicationinsights.agent - Java version: 13, vendor: Oracle Corporation, home: D:\jdk-13
+2022-11-25 16:19:37.953+05:30 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.4 started successfully (PID 8416, JVM running for 7.806 s)
+2022-11-25 16:19:37.960+05:30 INFO  c.m.applicationinsights.agent - Java version: 13, vendor: Oracle Corporation, home: D:\jdk-13
+2022-11-25 19:53:47.621+05:30 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.4 started successfully (PID 13784, JVM running for 3.816 s)
+2022-11-25 19:53:47.633+05:30 INFO  c.m.applicationinsights.agent - Java version: 13, vendor: Oracle Corporation, home: D:\jdk-13
+2022-11-25 20:40:27.984+05:30 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.4 started successfully (PID 2608, JVM running for 2.559 s)
+2022-11-25 20:40:27.991+05:30 INFO  c.m.applicationinsights.agent - Java version: 13, vendor: Oracle Corporation, home: D:\jdk-13
+2022-11-25 20:41:06.914+05:30 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.4 started successfully (PID 21076, JVM running for 2.547 s)
+2022-11-25 20:41:06.924+05:30 INFO  c.m.applicationinsights.agent - Java version: 13, vendor: Oracle Corporation, home: D:\jdk-13
